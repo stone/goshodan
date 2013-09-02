@@ -1,6 +1,8 @@
 goshodan
 ========
 
+[![Build Status](https://drone.io/github.com/stone/goshodan/status.png)](https://drone.io/github.com/stone/goshodan/latest)
+
 goshodan is a work in progress thin wrapper around shodanhq.com API.
 
 ![img](http://i.imgur.com/IMUKRWQ.jpg)
